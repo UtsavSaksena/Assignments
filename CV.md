@@ -11,20 +11,20 @@ Email: utsavsaksena95@hotmail.com       Phone nummber: +31620949692     </pre> <
 </UL>
 
 <H2> Co-Curricular Programmes Attended: </H2>
-<Ul>
+<UL>
 <LI> ECCMP (Online Certified Capital Market Professional) course offered by the National Stock Exchange of India (June 2016) </LI>
 <LI> Course on International Political Economy as part of Summer School, King's College Londo (June 2015) </LI>
 <LI> Selected to participate in the first ever US-India Initiative conducted by Harvard University, USA </LI>
 <LI> Course on Identity, Conflict and Public Spaces conducted by Queen's University Belfast (June 2014) </LI>
-</OL>  
+</UL>  
 
 <H2>Academic Achievements </H2>
-<Ul>
+<UL>
 <LI> Jointly awarded the 'Goutham Krishna Research Fellowship' in college for the following two projects (March 2016)- </LI>
-    <OL> 
-         <LI> 'Grading State Government Efficiency using returned mail' </LI>
-         <LI> 'Postal Variables as proxy for Economic Growth in the Colonial-Era' </LI>
-    </OL>
+<OL> 
+<LI> 'Grading State Government Efficiency using returned mail' </LI>
+<LI> 'Postal Variables as proxy for Economic Growth in the Colonial-Era' </LI>
+</OL>
 <LI> Awarded 'Blue-Tie' in school for six consecutive years of academic excellence (2005-2011) </LI>
 </UL>
  
