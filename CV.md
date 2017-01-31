@@ -46,9 +46,9 @@ Email: utsavsaksena95@hotmail.com       Phone nummber: +31620949692     </pre> <
 <H2> Miscellaneous Activites, Interests and Skills </H2>
 | Sports        | Computer Skills           | Languages  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Squash      | C++(Language) | English (Fluent) |
+| Football    | STATA (Software)  |  Hindi (Fluent) |
+| Swimming | MS Office (Software)   |  French (Basic) |
 
 
          
