@@ -13,8 +13,11 @@ Email: utsavsaksena95@hotmail.com       Phone nummber: +31620949692     </pre> <
 <H2> Co-Curricular Programmes Attended: </H2>
 <UL>
 <LI> ECCMP (Online Certified Capital Market Professional) course offered by the National Stock Exchange of India (June 2016) </LI>
-<LI> Course on International Political Economy as part of Summer School, King's College Londo (June 2015) </LI>
-<LI> Selected to participate in the first ever US-India Initiative conducted by Harvard University, USA </LI>
+<LI> Course on International Political Economy as part of Summer School, King's College London (June 2015) </LI>
+     <UL>
+     <LI> Wrote a paper titled "Should Economic Development in India be pursued at the risk of increasing inequality?"</LI>
+     </UL> 
+<LI> Selected to participate in the first ever US-India Initiative conducted by Harvard University, USA (Feburary 2015)</LI>
 <LI> Course on Identity, Conflict and Public Spaces conducted by Queen's University Belfast (June 2014) </LI>
 </UL>  
 
@@ -28,3 +31,24 @@ Email: utsavsaksena95@hotmail.com       Phone nummber: +31620949692     </pre> <
 <LI> Awarded 'Blue-Tie' in school for six consecutive years of academic excellence (2005-2011) </LI>
 </UL>
  
+<H2> Work Experience </H2>
+<UL> 
+<LI>Interned at Hazards Center, New Delhi - a non-governmental consultancy for the impoverished </LI> 
+      <UL>
+           <LI> Worked with the Labour studies group of the organisaion and focued on the issue of Minimum wages in the unorganised sector of the Indian Economy </LI>
+      </UL>
+</UL>
+
+<H2> Volunteer Work </H2>
+<UL> 
+<LI> Taught Physics and English to evening students at DPS Anubhav Shiksha Kendriya, a non-profit school for the underpriveledged </LI> </UL>
+
+<H2> Miscellaneous Activites, Interests and Skills </H2>
+| Sports        | Computer Skills           | Languages  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+         
